@@ -5,4 +5,4 @@ This program builds and opens a HTML website with a poster image and information
 
 To run:
  
-Type *python entertainment_centre.py* at command prompt.  The file *fresh_tomatoes.html* will be generated and then opened in your web browser.
+type *python entertainment_center.py* at command prompt.  The file *fresh_tomatoes.html* will be generated and then opened in your web browser.
